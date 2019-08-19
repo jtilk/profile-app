@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: 'Work Sans', sans-serif;
+    background-color: #eee;
+}
+
+header {
+    background-color: #1ECEFD;
+}
+
+button {
+    background-color: #505355;
+}
+
+a:hover {
+    color: #5BECD8;
+}
